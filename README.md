@@ -11,7 +11,7 @@ Supervisors: Dr Michael Roach, Dr Anya Reading, Dr Garry Davidson
 Project Sponsor: KUTh Energy Ltd, Australia
 
 # PDF ONLY
-This repo only contains a PDF of my honours thesis and is split into several sections. 
+This repo only contains a PDF of my honours thesis, split into the main thesis and appendices. 
 Please contact me for access to original measurement and calculation data. Data types are photos and CSV files. 
 
 # Abstract
